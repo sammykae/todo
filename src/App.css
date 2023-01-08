@@ -132,14 +132,14 @@ div.foo {
 	transform: scale(1.08, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg)
 		skew(0deg, 1deg);
 }
-.letter:hover:before {
+/* .letter:hover:before {
 	color: #fafafa;
 	transform: rotateX(0deg) rotateY(-40deg) rotateZ(0deg);
 }
 .letter:hover:after {
 	transform: scale(1.08, 1) rotateX(0deg) rotateY(40deg) rotateZ(0deg)
 		skew(0deg, 22deg);
-}
+} */
 .search-container {
 	border-bottom: 3px solid rgb(194, 201, 216);
 	margin-bottom: 10px;
